@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LeapMotion/Modules/Hands/Examples/Scenes/Hands_Viewer_Demo.unity
+  isLoaded: 1
+  isActive: 1
