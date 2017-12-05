@@ -298,6 +298,9 @@
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>C:/Users/Sam Mullen/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@1.0.1/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
+    <Reference Include="InteractionEngineUtility">
+      <HintPath>Assets/LeapMotion/Modules/InteractionEngine/Plugins/InteractionEngineUtility.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="rehab-project.Plugins.csproj">

@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="rehab-project.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\sk.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\destroy.cs">
     <Files>
-      <File FileName="RAW\jump.cs" Line="1" Column="1" />
-      <File FileName="Assets\sk.cs" Line="7" Column="26" />
+      <File FileName="Assets\jump.cs" Line="27" Column="25" />
+      <File FileName="Assets\destroy.cs" Line="52" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
