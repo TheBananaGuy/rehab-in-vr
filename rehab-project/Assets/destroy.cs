@@ -34,6 +34,8 @@ public class destroy : MonoBehaviour {
 //		}
 //	}
 
+	public ParticleSystem kaboom;
+
 	void Start () {
 	}
 
@@ -45,6 +47,11 @@ public class destroy : MonoBehaviour {
 	}
 
 	public void DestroyWrapper() {
+		ParticleSystem explosioneffect = Instantiate(kaboom) as ParticleSystem;
+		explosioneffect.transform.position = transform.position;
+		explosioneffect.loop = false;
+		explosioneffect.Play ();
+		Destroy (explosioneffect.gameObject, explosioneffect.duration);
 		Destroy (this.gameObject);
 	}
 
