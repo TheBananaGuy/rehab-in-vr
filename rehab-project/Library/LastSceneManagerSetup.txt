@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LeapMotion/Modules/Hands/Examples/Scenes/Hands_Viewer_Demo.unity
+- path: Assets/rehabscene.unity
   isLoaded: 1
   isActive: 1

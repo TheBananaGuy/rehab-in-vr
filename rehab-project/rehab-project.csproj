@@ -241,6 +241,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\BagIdea\GUIScript.cs" />
+    <Compile Include="Assets\control.cs" />
     <Compile Include="Assets\destroy.cs" />
     <Compile Include="Assets\Frog.cs" />
     <Compile Include="Assets\jump.cs" />
